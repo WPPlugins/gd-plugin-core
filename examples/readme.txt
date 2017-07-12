@@ -1,0 +1,1 @@
+To use these examples you must copy them into Wordpress plugins folder. The you activate them through Plugins control panel as any other plugin.

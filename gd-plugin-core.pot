@@ -1,0 +1,154 @@
+#: gd-plugin-form.php:6
+msgid "Admin Only"
+msgstr ""
+
+#: gd-plugin-form.php:7
+msgid "Administrator"
+msgstr ""
+
+#: gd-plugin-form.php:8
+#: gd-plugin-form.php:9
+#: gd-plugin-form.php:10
+#: gd-plugin-form.php:11
+#: gd-plugin-form.php:12
+msgid "Editor"
+msgstr ""
+
+#: gd-plugin-form.php:13
+#: gd-plugin-form.php:54
+msgid "Author"
+msgstr ""
+
+#: gd-plugin-form.php:14
+#: gd-plugin-form.php:15
+msgid "Contributor"
+msgstr ""
+
+#: gd-plugin-form.php:21
+msgid "Folder <strong>plugins-wizard</strong> needs to be writeable for wizard to automaticlly create all plugin folders and files."
+msgstr ""
+
+#: gd-plugin-form.php:23
+msgid "You must fix this before you can use this plugin. Only then <strong>Create Plugin</strong> button will be visible."
+msgstr ""
+
+#: gd-plugin-form.php:38
+msgid "Plugin Details"
+msgstr ""
+
+#: gd-plugin-form.php:42
+msgid "Name"
+msgstr ""
+
+#: gd-plugin-form.php:46
+msgid "Description"
+msgstr ""
+
+#: gd-plugin-form.php:50
+msgid "Plugin URL"
+msgstr ""
+
+#: gd-plugin-form.php:58
+msgid "Author URL"
+msgstr ""
+
+#: gd-plugin-form.php:65
+msgid "Features"
+msgstr ""
+
+#: gd-plugin-form.php:68
+msgid "Multi instance Widget"
+msgstr ""
+
+#: gd-plugin-form.php:71
+msgid "Shortcode support"
+msgstr ""
+
+#: gd-plugin-form.php:74
+msgid "Multi language support"
+msgstr ""
+
+#: gd-plugin-form.php:79
+msgid "Administration Panels"
+msgstr ""
+
+#: gd-plugin-form.php:85
+msgid "Settings Panel"
+msgstr ""
+
+#: gd-plugin-form.php:87
+#: gd-plugin-form.php:96
+#: gd-plugin-form.php:105
+msgid "User Level"
+msgstr ""
+
+#: gd-plugin-form.php:94
+msgid "Plugins Panel"
+msgstr ""
+
+#: gd-plugin-form.php:103
+msgid "Manage Panel"
+msgstr ""
+
+#: gd-plugin-form.php:113
+msgid "Administration Pages"
+msgstr ""
+
+#: gd-plugin-form.php:116
+#: gd-plugin-form.php:130
+msgid "Header"
+msgstr ""
+
+#: gd-plugin-form.php:119
+#: gd-plugin-form.php:133
+msgid "Footer"
+msgstr ""
+
+#: gd-plugin-form.php:124
+msgid "Blog"
+msgstr ""
+
+#: gd-plugin-form.php:127
+msgid "Wordpress Loop content manipulation"
+msgstr ""
+
+#: gd-plugin-form.php:138
+msgid "Plugin"
+msgstr ""
+
+#: gd-plugin-form.php:146
+msgid "Leave blank if you want base class to generate this name based on your plugin name. Do not use blank spaces."
+msgstr ""
+
+#: gd-plugin-form.php:154
+msgid "Options name"
+msgstr ""
+
+#: gd-plugin-form.php:158
+msgid "Widget Base ID"
+msgstr ""
+
+#: gd-plugin-form.php:162
+msgid "Base Form Name"
+msgstr ""
+
+#: gd-plugin-form.php:168
+msgid "Width"
+msgstr ""
+
+#: gd-plugin-form.php:171
+msgid "Height"
+msgstr ""
+
+#: gd-plugin-form.php:175
+msgid "Leave blank if you want base class to generate name and id based on your plugin name. Do not use blank spaces."
+msgstr ""
+
+#: gd-plugin-form.php:182
+msgid "Create Plugin"
+msgstr ""
+
+#: gd-plugin-wizard.php:183
+msgid "Files succesfully created."
+msgstr ""
+

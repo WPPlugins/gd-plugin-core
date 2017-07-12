@@ -1,0 +1,19 @@
+= GD Plugin Core =
+
+== Change Log ==
+
+=== Version: 1.1.1 / march 21 2009 ===
+  * edit: updated readme file
+
+=== Version: 1.1.0 / january 12 2009 ===
+  * new: gdragon install db and debug classes
+  * new: resize image function
+  * new: phpdoc documentation
+
+=== Version: 1.0.3 / december 11 2008 ===
+  * new: wizard translation support
+  * edit: wordpress 2.7 visual changes
+  * fix: some language references
+
+=== Version: 1.0.2 / july 31 2008 ===
+  * Initial Public Release
